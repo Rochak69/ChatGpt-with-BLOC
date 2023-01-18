@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 
 import '../../../global/common/common.dart';
 
-class OpenAiServiceButton extends StatelessWidget {
-  const OpenAiServiceButton(
+class HomeButtonWidget extends StatelessWidget {
+  const HomeButtonWidget(
       {super.key, required this.textData, required this.iconData, this.onTap});
   final String textData;
   final IconData iconData;

@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-6YE9AXCgDO06fqn1bimIJxnq1UfSa",
+    "object": "text_completion",
+    "created": 1673615552,
+    "model": "text-davinci-003",
+    "choices": [
+        {
+            "text": "\n\nFlutter is a mobile application development software created by Google. It is used to create cross-platform mobile apps for Android, iOS and web platforms. Flutter provides a user-friendly environment with features such as fast development, easy deployment and customizable UI.\n\nJava is a general-purpose programming language used in many areas of software development. It is versatile and has a wide range of applications from small to large-scale enterprise software. Java can be used for creating backend services, desktop",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6,
+        "completion_tokens": 100,
+        "total_tokens": 106
+    }
+}

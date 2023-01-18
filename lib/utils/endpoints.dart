@@ -1,4 +1,4 @@
 class ApiEndpoints {
   static const baseUrl = "https://api.openai.com/v1";
-  static const postEndpoint = "/posts";
+  static const postEndpoint = "/completions";
 }
